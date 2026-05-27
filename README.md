@@ -8,12 +8,13 @@
 
 ## <h2> 🗂 Sumário </h2>
 
-- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Curso-HTML-e-CSS-ambientes-de-desenvolvimento-estrutura-de-arquivos-e-tags#--descri%C3%A7%C3%A3o-do-projeto-)
-- [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Curso-HTML-e-CSS-ambientes-de-desenvolvimento-estrutura-de-arquivos-e-tags#--objetivos-da-aprendizagem-)
-- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Curso-HTML-e-CSS-ambientes-de-desenvolvimento-estrutura-de-arquivos-e-tags#--prot%C3%B3tipo-do-projeto-no-figma-)
-- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Curso-HTML-e-CSS-ambientes-de-desenvolvimento-estrutura-de-arquivos-e-tags#--tecnologias-utilizadas-)
-- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Curso-HTML-e-CSS-ambientes-de-desenvolvimento-estrutura-de-arquivos-e-tags#--estrutura-do-projeto-)
-- [✨Créditos](https://github.com/Victor-M-S-Rodrigues07/Curso-HTML-e-CSS-ambientes-de-desenvolvimento-estrutura-de-arquivos-e-tags#-cr%C3%A9ditos-)
+- [📝 Descrição do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#--descri%C3%A7%C3%A3o-do-projeto-)
+- [🎯 Objetivos da Aprendizagem](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#--objetivos-da-aprendizagem-)
+- [🔗 Protótipo do Projeto no Figma](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#--prot%C3%B3tipo-do-projeto-no-figma-)
+- [💻 Tecnologias Utilizadas](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#--tecnologias-utilizadas-)
+- [⚙ Funcionalidades](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#--funcionalidades-)
+- [📂 Estrutura do Projeto](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#--estrutura-do-projeto-)
+- [✨Créditos](https://github.com/Victor-M-S-Rodrigues07/Projeto-Final-de-Protfolio-HTML-CSS--Projeto-N4-2025#-cr%C3%A9ditos-)
 
 ## <h2> 📝 Descrição do Projeto </h2>
 
@@ -49,8 +50,7 @@ Você pode acessar o protótipo do projeto no Figma clicando [aqui](https://www.
 - Âncoras adicionadas para fornecer links;
 - Fontes de texto aplicadas pelo Google Fonts;
 - Criação de divisões pelo HTML;
-- Conceitos de classes CSS para aplicação personalizada de trechos do site.
-<br>
+- Conceitos de classes CSS para aplicação personalizada de trechos do site. <br>
 
 ## <h2> 📂 Estrutura do Projeto </h2>
 
